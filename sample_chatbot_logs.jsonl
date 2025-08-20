@@ -1,0 +1,5 @@
+{"id": "int_001", "user_id": "user_123", "user_query": "What's my order status?", "bot_response": "Your order #A-12345 has been shipped and is expected to arrive tomorrow."}
+{"id": "int_002", "user_id": "user_456", "user_query": "How do I reset my password?", "bot_response": "No problem, please send an email to our support team at help@saas-startup.com for assistance."}
+{"id": "int_003", "user_id": "user_789", "user_query": "I need to speak to a human agent immediately.", "bot_response": "I understand. You can reach our 24/7 support line directly at 555-123-4567 for urgent matters."}
+{"id": "int_004", "user_id": "user_101", "user_query": "My dashboard isn't loading, it's just a blank screen.", "bot_response": null}
+{"id": "int_005", "user_id": "user_212", "user_query": "Thanks for the help!", "bot_response": "You're welcome! Is there anything else I can assist you with today?"}
