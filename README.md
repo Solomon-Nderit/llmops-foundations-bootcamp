@@ -10,7 +10,7 @@ This repository contains the code, diagrams, and documentation for the monitorin
 
 The chatbot's operational model is a continuous, iterative loop. This ensures that the application is not just deployed but is constantly observed, evaluated, and improved based on both automated monitoring and human feedback.
 
-![LLMOps Lifecycle Diagram](image.png)
+![LLMOps Lifecycle Diagram](docs/image.png)
 
 ---
 
